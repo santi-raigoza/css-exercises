@@ -1,0 +1,16 @@
+.Left,
+.Right {
+    border-color: black;
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.Right {
+    background-color: yellow;
+    color: black;
+}
+
+.Left {
+    background-color: black;
+    color: white
+}
